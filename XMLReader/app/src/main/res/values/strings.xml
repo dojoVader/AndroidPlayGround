@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XMLReader</string>
+    <string name="xml_medium_text">Select a medium via which XML can be loaded</string>
+    <string name="button_text_application">Application</string>
+    <string name="button_text_network">Network</string>
+    <string name="xml_title">XML Information</string>
+</resources>
